@@ -1,6 +1,6 @@
 # Duolingo German IPA Script
 Displays IPA for German Duolingo levels. Will display "n/a" if no IPA translation is given.
-![Alt text](https://github.com/ellemcfarlane/CellularAutomata/blob/master/screenshots/Rule110default.png?raw=true)
+![Alt text](https://github.com/ellemcfarlane/duolingoipa/tree/master/screenshots?raw=true)
 
 ## Installation
 1. Install the user script extension for your browser:
