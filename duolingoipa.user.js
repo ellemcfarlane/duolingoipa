@@ -14,11 +14,11 @@ let TRANSLATE_CHALLENGE = "_3VFHG"
 
 /* Functions for IPA display */
 
-// creates url from each word on page and passes to multiAjax for full IPA display
+// creates url from each word on page and passes to createIPAs for full IPA display
 function showIPA() {
     // create urls for each word on screen
         words = document.getElementsByClassName("TyDwn ");
-    // create empty string fullIPA to pass to muliAjax
+    // create empty string fullIPA to pass to createIPAs
         var fullIPA = "";
         var trueLen = words.length - 1
         var urls = new Array(trueLen);
