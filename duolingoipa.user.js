@@ -70,7 +70,7 @@ function getIPAText(url) {
         method: "GET",
         url: url,
         headers: {
-            "X-Secret": "YOUR-SECRET-HERE",
+            "X-Secret": "YOUR-SECRET-HERE"},
         onload: function (xhr) {resolve(xhr.responseText)},
         onerror: reject
     });
