@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         duolingoipa
 // @namespace    https://github.com/ellemcfarlane/duolingoipa
-// @version      1.0.1
+// @version      1.0.2
 // @description  displays German IPA for Duolingo
 // @author       Elle McFarlane
 // @match        https://www.duolingo.com/*
