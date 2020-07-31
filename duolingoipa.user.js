@@ -8,7 +8,7 @@
 // @grant        GM.xmlHttpRequest
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // @downloadURL  https://gist.github.com/ellemcfarlane/5a9dd00c7a0290415848f745ecd97917/raw/duolingoipa.user.js
-// @updateURL  https://gist.github.com/ellemcfarlane/5a9dd00c7a0290415848f745ecd97917/raw/duolingoipa.user.js
+// @updateURL    https://gist.github.com/ellemcfarlane/5a9dd00c7a0290415848f745ecd97917/raw/duolingoipa.user.js
 // ==/UserScript==
 
 // class for Duolingo translate challenge
